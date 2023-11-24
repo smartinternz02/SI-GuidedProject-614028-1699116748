@@ -1,1 +1,0 @@
-# Technology Stack (Architecture & Stack)
