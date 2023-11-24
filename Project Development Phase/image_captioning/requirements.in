@@ -1,0 +1,10 @@
+pandas
+tqdm
+streamlit
+tensorflow
+keras
+Keras-Preprocessing
+seaborn
+pillow 
+flask
+flask_sqlalchemy
